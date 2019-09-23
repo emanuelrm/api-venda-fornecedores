@@ -1,0 +1,12 @@
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.deps.json
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.dll
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.pdb
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Business.dll
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Business.pdb
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csprojAssemblyReference.cache
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csproj.CoreCompileInputs.cache
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.AssemblyInfoInputs.cache
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.AssemblyInfo.cs
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csproj.CopyComplete
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.dll
+/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.pdb
