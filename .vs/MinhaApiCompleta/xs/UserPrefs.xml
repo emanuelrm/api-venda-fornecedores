@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{B1D97861-56C9-4158-ADEB-C893EAFDFF44}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../usr/local/share/dotnet/sdk/2.2.402/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.targets">
+    <Files>
+      <File FileName="src/DevIO.Data/Context/MeuDbContext.cs" Line="39" Column="18" />
+      <File FileName="../../../../../usr/local/share/dotnet/sdk/2.2.402/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.targets" Line="129" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

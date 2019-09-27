@@ -17,3 +17,4 @@ dotnet add reference ../DevIO.Data/DevIO.Data.csproj
 
 ### Listar as referencias do projeto
 dotnet list reference
+
