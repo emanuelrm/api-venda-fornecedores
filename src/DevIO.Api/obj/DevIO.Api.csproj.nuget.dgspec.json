@@ -1,39 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Api/DevIO.Api.csproj": {}
+    "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Api/DevIO.Api.csproj": {}
   },
   "projects": {
-    "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Api/DevIO.Api.csproj": {
+    "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Api/DevIO.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Api/DevIO.Api.csproj",
+        "projectUniqueName": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Api/DevIO.Api.csproj",
         "projectName": "DevIO.Api",
-        "projectPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Api/DevIO.Api.csproj",
-        "packagesPath": "/Users/emanuelrm/.nuget/packages/",
-        "outputPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Api/obj/",
+        "projectPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Api/DevIO.Api.csproj",
+        "packagesPath": "/home/emanuel/.nuget/packages/",
+        "outputPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Api/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/emanuelrm/.nuget/NuGet/NuGet.Config"
+          "/home/emanuel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://gesigsenac.pkgs.visualstudio.com/_packaging/SigPackage/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj": {
-                "projectPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj"
+              "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/DevIO.Business.csproj": {
+                "projectPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/DevIO.Business.csproj"
               },
-              "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj": {
-                "projectPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj"
+              "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/DevIO.Data.csproj": {
+                "projectPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/DevIO.Data.csproj"
               }
             }
           }
@@ -77,27 +76,26 @@
         }
       }
     },
-    "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj": {
+    "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj",
+        "projectUniqueName": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj",
-        "packagesPath": "/Users/emanuelrm/.nuget/packages/",
-        "outputPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/obj/",
+        "projectPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/DevIO.Business.csproj",
+        "packagesPath": "/home/emanuel/.nuget/packages/",
+        "outputPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/emanuelrm/.nuget/NuGet/NuGet.Config"
+          "/home/emanuel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://gesigsenac.pkgs.visualstudio.com/_packaging/SigPackage/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -132,33 +130,32 @@
         }
       }
     },
-    "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj": {
+    "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj",
+        "projectUniqueName": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/DevIO.Data.csproj",
-        "packagesPath": "/Users/emanuelrm/.nuget/packages/",
-        "outputPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/",
+        "projectPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/DevIO.Data.csproj",
+        "packagesPath": "/home/emanuel/.nuget/packages/",
+        "outputPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/emanuelrm/.nuget/NuGet/NuGet.Config"
+          "/home/emanuel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://gesigsenac.pkgs.visualstudio.com/_packaging/SigPackage/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj": {
-                "projectPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj"
+              "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/DevIO.Business.csproj": {
+                "projectPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/DevIO.Business.csproj"
               }
             }
           }
@@ -172,6 +169,12 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[2.2.4, )"

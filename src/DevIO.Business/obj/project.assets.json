@@ -720,7 +720,7 @@
       ]
     },
     "System.ComponentModel.Annotations/4.4.1": {
-      "sha512": "/8XSRz3cgSSPEdiV6UFhlfk6/FX9P10MAja4XPCyMCz7/0YTqjtCh4e0jjLYOCJL8jK7O/vhtUjYo1TOSuPngQ==",
+      "sha512": "ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
       "type": "package",
       "path": "system.componentmodel.annotations/4.4.1",
       "files": [
@@ -814,30 +814,29 @@
     ]
   },
   "packageFolders": {
-    "/Users/emanuelrm/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/emanuel/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj",
+      "projectUniqueName": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/DevIO.Business.csproj",
       "projectName": "DevIO.Business",
-      "projectPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/DevIO.Business.csproj",
-      "packagesPath": "/Users/emanuelrm/.nuget/packages/",
-      "outputPath": "/Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Business/obj/",
+      "projectPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/DevIO.Business.csproj",
+      "packagesPath": "/home/emanuel/.nuget/packages/",
+      "outputPath": "/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/emanuelrm/.nuget/NuGet/NuGet.Config"
+        "/home/emanuel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://gesigsenac.pkgs.visualstudio.com/_packaging/SigPackage/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

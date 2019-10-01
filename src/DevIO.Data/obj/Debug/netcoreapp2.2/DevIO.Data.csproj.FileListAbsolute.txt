@@ -10,3 +10,17 @@
 /Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csproj.CopyComplete
 /Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.dll
 /Users/emanuelrm/curso/restapinetcore/minhaApiCompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.pdb
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.deps.json
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.dll
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.pdb
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Business.dll
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Business.pdb
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csprojAssemblyReference.cache
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csproj.CoreCompileInputs.cache
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.AssemblyInfoInputs.cache
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.AssemblyInfo.cs
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csproj.CopyComplete
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.dll
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.pdb
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.runtimeconfig.json
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.runtimeconfig.dev.json

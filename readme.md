@@ -18,3 +18,9 @@ dotnet add reference ../DevIO.Data/DevIO.Data.csproj
 ### Listar as referencias do projeto
 dotnet list reference
 
+### Rodas as migrations
+dotnet ef database update -s ../DevIO.Api/
+
+### Docker 
+docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=master.2019' -e 'MSSQL_PID=Express' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2017-latest-ubuntu
+
