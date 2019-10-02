@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using AutoMapper;
@@ -7,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DevIO.Api.Controllers {
 
+    [ApiController]
     public abstract class MainController : ControllerBase
     {
         //validacao da notificacao de Erros
@@ -32,6 +34,12 @@ namespace DevIO.Api.Controllers {
         {
             var fornecedores = _mapper.Map<IEnumerable<FornecedorViewModel>>(await _fornecedorRepository.ObterTodos());
             return fornecedores;
+        }    
+
+         public async Task<FornecedorViewModel> ObterPorId(Guid id)
+        {
+            var fornecedor = _mapper.Map<FornecedorViewModel>(await _fornecedorRepository.ObterFornecedorProdutosEndereco(id));
+            return fornecedor;
         }    
     }
 }
