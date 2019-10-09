@@ -10,9 +10,9 @@
 /home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/bin/Debug/netcoreapp2.2/DevIO.Business.deps.json
 /home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/bin/Debug/netcoreapp2.2/DevIO.Business.dll
 /home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/bin/Debug/netcoreapp2.2/DevIO.Business.pdb
-/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/obj/Debug/netcoreapp2.2/DevIO.Business.csprojAssemblyReference.cache
 /home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/obj/Debug/netcoreapp2.2/DevIO.Business.csproj.CoreCompileInputs.cache
 /home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/obj/Debug/netcoreapp2.2/DevIO.Business.AssemblyInfoInputs.cache
 /home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/obj/Debug/netcoreapp2.2/DevIO.Business.AssemblyInfo.cs
 /home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/obj/Debug/netcoreapp2.2/DevIO.Business.dll
 /home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/obj/Debug/netcoreapp2.2/DevIO.Business.pdb
+/home/emanuel/cursos/api-venda-fornecedores/src/DevIO.Business/obj/Debug/netcoreapp2.2/DevIO.Business.csprojAssemblyReference.cache
